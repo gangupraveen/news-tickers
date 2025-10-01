@@ -23,8 +23,7 @@
       "FTNT",
       "CRWD",
       "SNOW",
-      "MDB",
-      "ADBE"
+      "MDB"
     ]
   },
   "DAILY STOCKS": {
@@ -58,7 +57,16 @@
       "BABA",
       "BBAI",
       "OKLO",
-      "HIMS"
+      "HIMS",
+      "GLXY",
+      "ADBE",
+      "XPON",
+      "SIDU",
+      "BA",
+      "GRRR",
+      "APP",
+      "DUOL",
+      "MVST"
     ]
   },
   "BIO": {
@@ -69,25 +77,17 @@
       "SRPT",
       "UNCY",
       "MBRX",
-      "GLXY",
       "REPL",
       "NRXP",
-      "XPON",
-      "SIDU",
       "TT",
       "TNXP",
       "INBS",
       "IXHL",
       "DVLT",
       "CAPR",
-      "BA",
-      "GRRR",
-      "APP",
-      "DUOL",
       "NLSP",
       "ABEO",
       "AEHL",
-      "MVST",
       "BROS"
     ]
   },
