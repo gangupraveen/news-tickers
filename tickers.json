@@ -42,7 +42,7 @@
   },
   "Daily General": {
     "description": "Find news for any stocks that is moving with keywords.",
-    "discord_webhook_url": "https://discord.com/api/webhooks/1421941437649522860/F1nIPneHPaFXUJyeUowfyakhMuI_d0PF-E0OGekvCr4autGCCIXoTBT5S9c7AHCt_Rat",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1423117317226627183/mi2kOJ-BPxyzf9y8G71VyoeHRSC9Ia0zcYam6_rs-aF9YJgU01JKZjAmAjhsgsArh4tY",
     "tickers": ["Stocks-General"],
     "topics":"Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation"
   },
