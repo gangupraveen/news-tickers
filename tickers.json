@@ -3,14 +3,14 @@
     "description": "Biotech and pharma stocks, FDA news.",
     "discord_webhook_url": "https://discord.com/api/webhooks/1422403485273690233/MRPGkio3CYkjOSAoBZGhB2t63eLQpLQu4D6Ec_1y_4alktV-nmqO1kgHgDULTR0jWhdp",
     "tickers": ["BIO-INFO"],
-    "topics":"BIO, FDA, Merge"
+    "topics":"BIO, FDA, Merge, Breakthrough, CRL, PDUFA, Complete Response Letter"
   },
   "BIO General": {
     "description": "Biotech news with specific keywords.",
     "discord_webhook_url": "https://discord.com/api/webhooks/1422403485273690233/MRPGkio3CYkjOSAoBZGhB2t63eLQpLQu4D6Ec_1y_4alktV-nmqO1kgHgDULTR0jWhdp",
     "tickers": ["BIO-General"],
     "channels": "Biotech",
-    "topics":"Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation"
+    "topics":"Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation,Fast Track"
   },
   "BIG BULLS": {
     "description": "Large cap, high volume stocks.",
