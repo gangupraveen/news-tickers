@@ -5,6 +5,13 @@
     "tickers": ["BIO-INFO"],
     "topics":"BIO, FDA, Merge"
   },
+  "BIO General": {
+    "description": "Biotech and pharma stocks, FDA news.",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1422403485273690233/MRPGkio3CYkjOSAoBZGhB2t63eLQpLQu4D6Ec_1y_4alktV-nmqO1kgHgDULTR0jWhdp",
+    "tickers": ["BIO-INFO"],
+    "channels": "BIOTECH",
+    "topics":"Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation"
+  },
   "BIG BULLS": {
     "description": "Large cap, high volume stocks.",
     "discord_webhook_url": "https://discord.com/api/webhooks/1422208406306947072/Mca2y_yANM9YCpS_C81GPrHcxXy4xs8KybS_MSjUOXRRC1ShcBBJDypqsQxIHIB5_VR2",
@@ -32,6 +39,12 @@
       "TNXP", "INBS", "IXHL", "DVLT", "CAPR", "NLSP",
       "ABEO", "AEHL", "BROS"
     ]
+  },
+  "Daily General": {
+    "description": "Find news for any stocks that is moving with keywords.",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1421941437649522860/F1nIPneHPaFXUJyeUowfyakhMuI_d0PF-E0OGekvCr4autGCCIXoTBT5S9c7AHCt_Rat",
+    "tickers": ["Stocks-General"],
+    "topics":"Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation"
   },
   "OTHER": {
     "description": "Other stocks.",
