@@ -8,7 +8,7 @@
   "BIO General": {
     "description": "Biotech and pharma stocks, FDA news.",
     "discord_webhook_url": "https://discord.com/api/webhooks/1422403485273690233/MRPGkio3CYkjOSAoBZGhB2t63eLQpLQu4D6Ec_1y_4alktV-nmqO1kgHgDULTR0jWhdp",
-    "tickers": ["BIO-INFO"],
+    "tickers": ["BIO-General"],
     "channels": "BIOTECH",
     "topics":"Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation"
   },
