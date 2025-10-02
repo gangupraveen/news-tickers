@@ -21,7 +21,7 @@
       "SNOW", "MDB"
     ]
   },
-  "Focused STOCKS": {
+  "Focused Stocks": {
     "description": "Regularly watched daily movers.",
     "discord_webhook_url": "https://discord.com/api/webhooks/1421941437649522860/F1nIPneHPaFXUJyeUowfyakhMuI_d0PF-E0OGekvCr4autGCCIXoTBT5S9c7AHCt_Rat",
     "tickers": [
