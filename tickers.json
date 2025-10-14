@@ -28,7 +28,7 @@
       "CRWV", "TRUG", "RDDT", "SLS", "S", "TLRY", "NU", "CAVA", "PATH", "ZS",
       "MGNI", "GDYN", "IREN", "OKTA", "ADI", "TTD", "RCT", "HOOD", "NBIS", "IINN",
       "MIST", "SOXX", "TSMC", "SMCI", "BABA", "BBAI", "OKLO", "HIMS", "GLXY", "ADBE",
-      "XPON", "SIDU", "BA", "GRRR", "APP", "DUOL", "MVST"
+      "XPON", "SIDU", "BA", "GRRR", "APP", "DUOL", "MVST", "ALAB", "PSIX", "ANET", "JOBY"
     ]
   },
   "BIO": {
@@ -37,14 +37,16 @@
     "tickers": [
       "FBIO", "SRPT", "UNCY", "MBRX", "REPL", "NRXP", "TT",
       "TNXP", "INBS", "IXHL", "DVLT", "CAPR", "NLSP",
-      "ABEO", "AEHL", "BROS"
+      "ABEO", "AEHL", "BROS", "META"
     ]
   },
   "Daily General": {
     "description": "Find news for any stocks that is moving with keywords.",
     "discord_webhook_url": "https://discord.com/api/webhooks/1423117317226627183/mi2kOJ-BPxyzf9y8G71VyoeHRSC9Ia0zcYam6_rs-aF9YJgU01JKZjAmAjhsgsArh4tY",
     "tickers": ["General"],
-    "topics":"Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation"
+    "topics":"Tariff, Jumps, Sign, Deal, Agreement, Moving, Multi million, Multi billon,progress, readiness, launch, presentation
+         cyberattack, sanctions",
+    
   },
   "OTHER": {
     "description": "Other stocks.",
