@@ -18,7 +18,7 @@
     "tickers": [
       "SPY", "GOOG", "AAPL", "MSFT", "NVDA", "TSLA", "AMD",
       "AVGO", "MSTR", "ORCL", "CRM", "PLTR", "FTNT", "CRWD",
-      "SNOW", "MDB"
+      "SNOW", "MDB", "META"
     ]
   },
   "Focused Stocks": {
@@ -28,7 +28,8 @@
       "CRWV", "TRUG", "RDDT", "SLS", "S", "TLRY", "NU", "CAVA", "PATH", "ZS",
       "MGNI", "GDYN", "IREN", "OKTA", "ADI", "TTD", "RCT", "HOOD", "NBIS", "IINN",
       "MIST", "SOXX", "TSMC", "SMCI", "BABA", "BBAI", "OKLO", "HIMS", "GLXY", "ADBE",
-      "XPON", "SIDU", "BA", "GRRR", "APP", "DUOL", "MVST", "ALAB", "PSIX", "ANET", "JOBY"
+      "XPON", "SIDU", "BA", "GRRR", "APP", "DUOL", "MVST", "ALAB", "PSIX", "ANET", "JOBY",
+      "DVLT"
     ]
   },
   "BIO": {
@@ -36,8 +37,8 @@
     "discord_webhook_url": "https://discord.com/api/webhooks/1422403485273690233/MRPGkio3CYkjOSAoBZGhB2t63eLQpLQu4D6Ec_1y_4alktV-nmqO1kgHgDULTR0jWhdp",
     "tickers": [
       "FBIO", "SRPT", "UNCY", "MBRX", "REPL", "NRXP", "TT",
-      "TNXP", "INBS", "IXHL", "DVLT", "CAPR", "NLSP",
-      "ABEO", "AEHL", "BROS", "META", "OMER"
+      "TNXP", "INBS", "IXHL", "CAPR", "NLSP",
+      "ABEO", "AEHL", "BROS",  "OMER"
     ]
   },
   "Daily General": {
